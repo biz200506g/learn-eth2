@@ -18,3 +18,7 @@
 - otherwise, transaction.data is "user data" for the Transfer, and etherscan uses [Transfer *] as Method
 - if transaction.data is null, etherscan uses [Transfer] as Method
 
+2025-02-09:
+- to use vscode with hardhat, read https://codedamn.com/news/blockchain/hardhat-tutorial-guide
+- install Solidity extension for vscode published by nomic foundation 
+
