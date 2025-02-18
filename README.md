@@ -22,3 +22,6 @@
 - to use vscode with hardhat, read https://codedamn.com/news/blockchain/hardhat-tutorial-guide
 - install Solidity extension for vscode published by nomic foundation 
 
+2025-02-18:
+- study https://github.com/joshuanwankwo/mode_testnet/blob/main/bidboard/src/bidboard.sol
+- compile and deploy on Remix IDE
