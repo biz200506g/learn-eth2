@@ -27,3 +27,10 @@
 2025-02-18:
 - study https://github.com/joshuanwankwo/mode_testnet/blob/main/bidboard/src/bidboard.sol
 - compile and deploy on Remix IDE
+
+2025-02-19:
+- study https://hardhat.org/ignition/docs/getting-started
+- create the deployment js file
+- deploy the contract to hardhat local node
+- study https://github.com/joshuanwankwo/mode_testnet/blob/main/bidboard-ui/src/App.js
+- create a js program importing ethers.js to interact with the contract on local node
