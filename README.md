@@ -30,7 +30,11 @@
 
 2025-02-19:
 - study https://hardhat.org/ignition/docs/getting-started
-- create the deployment js file
+- create the ignition deployment js file
 - deploy the contract to hardhat local node
 - study https://github.com/joshuanwankwo/mode_testnet/blob/main/bidboard-ui/src/App.js
 - create a js program importing ethers.js to interact with the contract on local node
+
+2025-02-24:
+- add parameters to constructor
+- modify ignition deployment js to pass arguments to constructor
