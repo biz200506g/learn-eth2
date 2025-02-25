@@ -38,3 +38,8 @@
 2025-02-24:
 - add parameters to constructor
 - modify ignition deployment js to pass arguments to constructor
+
+2025-02-25:
+- download https://github.com/joshuanwankwo/mode_testnet/blob/main/bidboard-ui
+- modify App.js to work with local node without metamask
+- modify index.css to fit my taste
