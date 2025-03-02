@@ -43,3 +43,7 @@
 - download https://github.com/joshuanwankwo/mode_testnet/blob/main/bidboard-ui
 - modify App.js to work with local node without metamask
 - modify index.css to fit my taste
+
+2025-03-02:
+- react 18+ runs mount, unmount and mount again during startup in development, so add qeueing for setup and cleanup listener
+- add configuration data in App.js to allow the use of both hardhat local node and kurtosis localnet
