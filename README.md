@@ -49,3 +49,8 @@
 - react 18+ runs mount, unmount and mount again during startup in development, so add qeueing for setup and cleanup listener
 - add kurtosis localnet network data to hardhat.config.js to allow deployment to localnet
 - add configuration data to App.js to allow the use of both hardhat local node and kurtosis localnet
+
+2025-03-05:
+- study https://www.rareskills.io/learn-solidity
+- ERC20 token is a smart contract and uses "mapping" to store the balance associated with an address
+- the smart contract for USDC, an ERC20 token: https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
