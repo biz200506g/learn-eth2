@@ -19,6 +19,7 @@
 - if transaction.data is null, etherscan uses [Transfer] as Method
 
 2025-02-09:
+- Truffle Suite abd Ganache has been sunset since 2024-02-26, and Consensys AG offered support to moigrate to hardhat, see https://github.com/trufflesuite/truffle
 - to use vscode with hardhat, read https://codedamn.com/news/blockchain/hardhat-tutorial-guide
 - install Solidity extension for vscode published by nomic foundation
 - need to use "npx hardhat" commands in a terminal to compile, test and deploy
@@ -46,4 +47,5 @@
 
 2025-03-02:
 - react 18+ runs mount, unmount and mount again during startup in development, so add qeueing for setup and cleanup listener
-- add configuration data in App.js to allow the use of both hardhat local node and kurtosis localnet
+- add kurtosis localnet network data to hardhat.config.js to allow deployment to localnet
+- add configuration data to App.js to allow the use of both hardhat local node and kurtosis localnet
